@@ -1,0 +1,15 @@
+﻿  benchmark.c
+c:\users\ksmk9\documents\visual studio 2015\projects\rw_benchmark\rw_benchmark\benchmark.c(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\ksmk9\documents\visual studio 2015\projects\rw_benchmark\rw_benchmark\benchmark.c(118): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\ksmk9\documents\visual studio 2015\projects\rw_benchmark\rw_benchmark\benchmark.c(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\ksmk9\documents\visual studio 2015\projects\rw_benchmark\rw_benchmark\benchmark.c(257): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\ksmk9\documents\visual studio 2015\projects\rw_benchmark\rw_benchmark\benchmark.c(270): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\ksmk9\documents\visual studio 2015\projects\rw_benchmark\rw_benchmark\benchmark.c(283): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  rw_benchmark.vcxproj -> c:\users\ksmk9\documents\visual studio 2015\Projects\rw_benchmark\Debug\rw_benchmark.exe
+  rw_benchmark.vcxproj -> c:\users\ksmk9\documents\visual studio 2015\Projects\rw_benchmark\Debug\rw_benchmark.pdb (Full PDB)
